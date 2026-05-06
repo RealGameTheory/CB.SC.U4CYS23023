@@ -1,5 +1,5 @@
 ## Stage 1
-First we have notifications_app_be folder which uses the GET method to get data from the http://20.207.122.201/evaluation-service/notifications endpoint. Then we use the notification_priority.cpp to ge the top 5 notifications.
+First we have notifications_app_be folder which uses the GET method to get data from the base_url/notifications. Then we use the notification_priority.cpp to ge the top 5 notifications.
 
 Stage 1: 
 * Create notification
