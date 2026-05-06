@@ -104,3 +104,6 @@ Problems with the given Queary:
 * There is no error recovery .
 
 Should DB Save and Email Happen Together?: No as saving to the db is fast and reliable, while sending the mail is slow an not so reliable. Therefore we have to save them seperately.
+
+## Stage 6:
+![Output](image.png)
